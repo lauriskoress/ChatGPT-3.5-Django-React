@@ -1,59 +1,3 @@
-<a name="readme-top"></a>
-[![Contributors](https://shields.io/badge/Contributors-1-green)](https://github.com/oardilac/ChatGPT-3.5-Django-React/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/oardilac/ChatGPT-3.5-Django-React)](https://github.com/oardilac/ChatGPT-3.5-Django-React/network/members)
-[![Stargazers](https://img.shields.io/github/stars/oardilac/ChatGPT-3.5-Django-React)](https://github.com/oardilac/ChatGPT-3.5-Django-React/stargazers)
-[![Issues](https://img.shields.io/github/issues/oardilac/ChatGPT-3.5-Django-React)](https://github.com/oardilac/ChatGPT-3.5-Django-React/issues)
-[![MIT License](https://img.shields.io/github/license/oardilac/ChatGPT-3.5-Django-React)](https://github.com/oardilac/ChatGPT-3.5-Django-React/blob/main/LICENSE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/oardilac/)
-<br />
-<div align="center">
-    <h3 align="center">ChatGPT Personalized: Django & React Backend</h3>
-
-   <p align="center">
-   About
-AI-powered chatbot with GPT-3.5 Turbo model for document analysis, modification, and image insertion.
-    <br />
-
-  <p align="center">
-    <a href="https://github.com/oardilac/ChatGPT-3.5-Django-React/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/oardilac/ChatGPT-3.5-Django-React/">View Demo</a>
-    ·
-    <a href="https://github.com/oardilac/ChatGPT-3.5-Django-React/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/oardilac/ChatGPT-3.5-Django-React/issues">Request Feature</a>
-  </p>
-</div>
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project is a backend service for a web application powered by ChatGPT and developed using Django and React. The backend service is designed to support various functionalities like handling chatbots, managing document uploads, storing text data, saving URLs, and web scraping.
@@ -167,16 +111,6 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTACT -->
-## Contact
-
-Oliver Ardila - @oardilac - odardilacueto@gmail.com
-
-Project Link: [https://github.com/oardilac/ChatGPT-3.5-Django-React](https://github.com/oardilac/ChatGPT-3.5-Django-React)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
